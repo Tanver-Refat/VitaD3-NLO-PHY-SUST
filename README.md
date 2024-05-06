@@ -1,6 +1,6 @@
 # VitaD3-NLO-PHY-SUST
 
-This repository contains Python codes related to the Z-scan profiling of liquid materials. The codes are developed in the Google Colaboratory environment, which is why the file input and output destinations are represented in a specific manner.
+This repository contains Python codes related to the Z-scan profiling of liquid materials. The codes are developed in the Google Colaboratory environment, which is why the file input and output destinations are represented in a specific manner. You need to change that to your preferred way. This code is developed under a project ongoing at the **_Nonlinear Optics Research Laboratory, Department of Physics, SUST, Sylhet-3114._**
 
 ## Files in this Repository
 
@@ -20,6 +20,9 @@ This Jupyter notebook reads data from a folder where .csv format files will be u
 
 2. **Further Calculation and Plotting:** This portion will take the newly created data frame (.csv file) from the first portion as its input, and then will further perform various calculations and plotting. The calculations will be for the whole folder containing the data of a sample.
 
+## Data for these programs.
+
+The data we have used for this project in not publicly available.
 
 ## License
 
